@@ -1,0 +1,122 @@
+
+
+    .navbar{
+     
+      background: #0b8793;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right,  #360033, #0b8793);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right,  #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+      
+    }
+    .btn{
+      background:#0b8793;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right,  #360033, #0b8793);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right,  #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+    #fb{
+      background:#0b8793;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right,  #360033, #0b8793);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right,  #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+.bg{
+  background-color: #0b8793;
+  height: 100%;
+}
+
+.bg1{
+  background-color: #0b8793;
+  height: 105vh;
+}
+
+    .AppBar{
+      
+  background-color: #007991;
+    }
+    #card{
+      transition: transform .2s;
+    }
+
+    #user{
+      margin-top: -9%;
+
+    }
+    
+    #card:hover {
+      -ms-transform: scale(1.1); /* IE 9 */
+      /* Safari 3-8 */
+      transform: scale(1.1); 
+    }
+
+    #card2{
+      transition: transform .2s;
+      margin-top: -5%;
+    }
+
+    
+    
+    #card2:hover {
+      -ms-transform: scale(1.1); /* IE 9 */
+      /* Safari 3-8 */
+      transform: scale(1.1); 
+    }
+
+    .footer{
+      height:10vh;
+      /* background-color: #232f3e; */
+  }
+ 
+#emi{
+ padding-left: 10%;
+ padding-right: 10%;
+ 
+}
+#emicard{
+  margin-top:0%;
+}
+
+.caption{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+.BL {
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ 
+}
+.BL1 {
+  
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+#bt{
+  position: absolute;
+  top: 72%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#log{
+  /* margin-top: 1% ;
+  margin-right: 0%; */
+  margin-left: 30%;
+  margin-top: 2%;
+}
+#status{
+  margin-top: -15%;
+}
+#status1{
+  margin-top: -5%;
+}
+#c1{
+  margin-top: -15%;
+}
